@@ -1,5 +1,5 @@
 # FirstRepo
-Hello, i am Abdullah and this is my first repo
+Hello, I am Abdullah and this is my first repo
 
-#Project Notes
+##Project Notes
 [Empty]
